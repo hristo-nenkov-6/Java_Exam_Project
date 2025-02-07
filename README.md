@@ -1,6 +1,7 @@
 # Short introduction
 The project is still in production.
 This is a client-server project for similar to Github application.
+
 The application is a console and will look like that (similar application):
 
 ![](Additional/JavaRecordingGif.gif)
